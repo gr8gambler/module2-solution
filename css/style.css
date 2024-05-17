@@ -3,6 +3,7 @@
 	margin: 0px;
 }
 section {
+	width: 30%;
 	background-color: grey;
 	position: relative;
 }
