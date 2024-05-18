@@ -7,9 +7,11 @@ section {
 	background-color: grey;
 	position: relative;
 }
+.box {
+	border: 5px solid black
 .chicken {
 	background-color: pink;
-	border-color: solid black;
+	border: 5px solid black;
 	width: 50px;
 	position: absolute;
 	top: 0px;
@@ -17,7 +19,7 @@ section {
 }
 .beef {
 	background-color: red;
-	border-color: solid black;
+	border: 5px solid black;
 	width: 50px;
 	position: absolute;
 	top: 0px;
@@ -25,7 +27,7 @@ section {
 }
 .sushi {
 	background-color: yellow;
-	border-color: solid black;
+	border: 5px solid black;
 	width: 50px;
 	position: absolute;
 	top: 0px;
