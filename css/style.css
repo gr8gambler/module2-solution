@@ -2,13 +2,12 @@
 	box-sizing: border-box;
 	margin: 0px;
 }
-section {
+.box {
+	border: 5px solid black
 	width: 30%;
 	background-color: grey;
 	position: relative;
 }
-.box {
-	border: 5px solid black
 .chicken {
 	background-color: pink;
 	border: 5px solid black;
