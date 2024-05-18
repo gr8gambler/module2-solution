@@ -6,7 +6,6 @@
 	border: 5px solid black;
 	background-color: grey;
 	position: relative;
-	margin: 5px;
 	width: 300px;
 }
 .chicken {
@@ -14,24 +13,21 @@
 	border: 5px solid black;
 	width: 50px;
 	position: absolute;
-	top: 0px;
-	right: 0px;
+	float: right;
 }
 .beef {
 	background-color: red;
 	border: 5px solid black;
 	width: 50px;
 	position: absolute;
-	top: 0px;
-	right: 0px;
+	float: right;
 }
 .sushi {
 	background-color: yellow;
 	border: 5px solid black;
 	width: 50px;
 	position: absolute;
-	top: 0px;
-	right: 0px;
+	float: right;
 }
 .col-lg-3 {
 	width: 33.33%;
