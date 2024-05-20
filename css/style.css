@@ -25,6 +25,7 @@ h1 {
 	position: absolute;
 	top: 0px;
 	right: 0px;
+	text-align: center;
 }
 .beef {
 	background-color: red;
@@ -33,7 +34,7 @@ h1 {
 	position: absolute;
 	top: 0px;
 	right: 0px;
-
+	text-align: center;
 }
 .sushi {
 	background-color: yellow;
@@ -42,6 +43,7 @@ h1 {
 	position: absolute;
 	top: 0px;
 	right: 0px;
+	text-align: center;
 }
 
 @media (min-width: 992px) {
