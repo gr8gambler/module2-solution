@@ -8,7 +8,9 @@
 	width: 100%;
 }		
 .box {
-
+	border: 1px solid black;
+	background-color: grey;
+	position: relative;
 }
 .chicken {
 	background-color: pink;
