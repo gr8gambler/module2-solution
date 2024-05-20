@@ -8,6 +8,7 @@
 	background-color: grey;
 	position: relative;
 	width: 30%;
+	float: left;
 }
 .chicken {
 	background-color: pink;
