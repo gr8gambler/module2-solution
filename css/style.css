@@ -1,6 +1,6 @@
 * {
 	box-sizing: border-box;
-	margin: 01%;
+	margin: 2%;
 	padding: 0px;
 }
 h1 {
@@ -16,7 +16,7 @@ h1 {
 	background-color: grey;
 	position: relative;
 	padding: 20px;
-	margin: 20px;
+	right-margin: 20px;
 }
 .chicken {
 	background-color: pink;
